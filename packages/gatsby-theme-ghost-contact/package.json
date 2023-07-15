@@ -36,6 +36,6 @@
         "@babel/core": "^7.10.4",
         "babel-preset-gatsby-package": "^0.5.1",
         "cross-env": "^7.0.2",
-        "gatsby": "^2.23.20"
+        "gatsby": "^4.25.7"
     }
 }
